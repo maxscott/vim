@@ -1,10 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/Users/max/.wapi'
-let g:netrw_dirhist_2='/Users/max/.vim/bundle/handlebars'
-let g:netrw_dirhist_3='/Users/max/code/now/potlucky/client'
-let g:netrw_dirhist_4='/Users/max/.vim/bundle/vim-airline'
-let g:netrw_dirhist_5='/Users/max/code/villageluxe'
-let g:netrw_dirhist_6='/Users/max/code/villageluxe/app/lib/storage'
-let g:netrw_dirhist_7='/Users/max/code/villageluxe/app/lib/clustering'
-let g:netrw_dirhist_8='/Users/max/code/villageluxe/app/lib/storage'
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/max/code/villageluxe/app/assets/img/onboarding'
+let g:netrw_dirhist_2='/Users/max/code/now/potlucky/client/app/index'
+let g:netrw_dirhist_3='/Users/max/code/now/potlucky/client/node_modules/ember-modal-dialog'
+let g:netrw_dirhist_4='/Users/max/code/villageluxe/clients'
+let g:netrw_dirhist_5='/Users/max/code/vl-client/app/components/modal-verify'
+let g:netrw_dirhist_6='/Users/max/code/villageluxe/test'
