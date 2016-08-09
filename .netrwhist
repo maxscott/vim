@@ -1,8 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/Users/max/code/villageluxe/app/assets/img/onboarding'
 let g:netrw_dirhist_2='/Users/max/code/now/potlucky/client/app/index'
 let g:netrw_dirhist_3='/Users/max/code/now/potlucky/client/node_modules/ember-modal-dialog'
 let g:netrw_dirhist_4='/Users/max/code/villageluxe/clients'
 let g:netrw_dirhist_5='/Users/max/code/vl-client/app/components/modal-verify'
 let g:netrw_dirhist_6='/Users/max/code/villageluxe/test'
+let g:netrw_dirhist_7='/Users/max/code/vl-client-admin/app'
